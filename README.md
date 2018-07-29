@@ -1,4 +1,7 @@
 # PHP Simple Class for SMS-REG.com API
+### UNOFFICIAL
+
+https://sms-reg.com/docs/APImethods.html
 
 - [x] Non-activation section methods usable now.
 - [x] getBalance and setRate methods usable now.
