@@ -1,0 +1,1 @@
+# PHP Simple Class for SMS-REG.com API
