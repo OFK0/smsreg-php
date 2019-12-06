@@ -28,7 +28,7 @@ class SMSREG
             $this->_request("getNum", [
                 "country"=>$country_code,
                 "service"=>$service,
-                "appid"=>$app_id
+                "appid"=>$appid
             ]),
             "tzid"
         );
